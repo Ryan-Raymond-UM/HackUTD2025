@@ -2,14 +2,26 @@
 
 import CarAndDriver
 import flask
+import PIL.Image
+import io
 import FuelEconomyGov
 import math
 import IIHS
+import openai
 
 CURRENT_YEAR = 2025
-API_KEY = 'AIzaSyBLMH4gA6a1f62uOBoEc2_3ZTCwvTHB6Jk'
 
 app = flask.Flask(__name__)
+prompt = """You are a car salesman who is trying to sell the car on the left. Try to convince the customer to buy it using mostly the statistics you have been provided. Use only pure text with no markup or symbols or emojis"""
+
+@app.route('/convince', methods=["POST"])
+def convince():
+	client = openai.OpenAI(api_key=API_KEY)
+	response = client.responses.create(
+    model="gpt-4o-mini",
+		input=prompt+'\n\n'+flask.request.data.decode()
+	)
+	return response.output_text
 
 @app.route('/makes')
 def get_makes():
@@ -27,6 +39,16 @@ def get_options(make, model, year=2025):
 def get_pricing(make, model):
 	pricing = CarAndDriver.getPrice(make, model)
 	return pricing
+
+@app.route('/photos/<vehicleID>')
+def get_photo(vehicleID):
+	binary = FuelEconomyGov.getLabel(vehicleID)
+	img = PIL.Image.open(io.BytesIO(binary))
+	buffer = io.BytesIO()
+	img.crop((70, 170, 290, 280)).save(buffer, format='PNG')
+	response = flask.make_response(buffer.getvalue())
+	response.headers['Content-Type'] = 'image/png'
+	return response
 
 @app.route('/makes/<make>/models/<model>/deaths')
 def get_deaths(make, model):

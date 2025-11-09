@@ -56,7 +56,6 @@ async function select_option_handler(event) {
 	await update_pricing(1, make, model);
 	update_death(1, make, model);
 	update_insurance(1, make, model);
-	update_image(1, option);
 }
 
 async function update_insurance(num, make, model) {
@@ -101,16 +100,11 @@ async function alternatives_handler() {
 		await update_pricing(num, alt.make, alt.model);
 		update_death(num, alt.make, alt.model);
 		update_insurance(num, alt.make, alt.model);
-		update_image(num, alt.option);
 	}
 	document.getElementById('ai_shit').innerText = 'AI is thinking...';
 	const stats = document.getElementById('stats').outerHTML;
 	const ai_shit = await (await fetch('/convince', {method: "POST", body: stats})).text();
 	document.getElementById('ai_shit').innerText = ai_shit;
-}
-
-async function update_image(num, option) {
-	document.getElementById(`image-${num}`).src = `/photos/${option}`;
 }
 
 window.onload = main;

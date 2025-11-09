@@ -10,6 +10,11 @@ SCHEME = 'https'
 HOST = 'www.fueleconomy.gov'
 BASE_URL = f'{SCHEME}://{HOST}/ws/rest'
 
+@functools.cache
+def getLabel(vehicleID):
+	url = f'https://www.fueleconomy.gov/feg/EpaLabels/Gr{vehicleID}.png'
+	return requests.get(url).content
+
 def randomCar():
 	make = random.choice(getMakes(2025))
 	model = random.choice(getModels(make, 2025))

@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<!--<link rel="stylesheet" href="index.css"></link>-->
 		<script src="index.js"></script>
-		<link rel="icon" href="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAANlBMVEXWGCDVExvVDRbUCBHTAwvjYGXslJf3zc/64uL++fn////mb3Tvpqnytbj87/Dqh4vaLTXfRUxeU1tzAAABfUlEQVR4AWIgHoyCUQBgpIxy9AaBGMyMDYADAe5/2Ypss6qy6d/6aSL5k8nIYN/6P7c7ABKAu9k/3Qgx5VKlWnKKAR8Zcz+KpNy61FuWVA53+6sdh3SOSdpOMHKOUzrwjpiHLEXCnU2SGt3BKOXwRpjPKi26mbk0l3SNXFKdL4SHKilgm5YSmbQ2gSCpBv8RgKxelA3uGApA0NizZZWuDHsGLClESWmSrZJkbeRMkmKQlj8DujJ5aKvUM42Rzlq0dZBZ/RFhrBpwzKaH2oRjqPIJSAfMHFij3+Y+FuBmOKQXYOzUzfBMJJlOfhXDMF6A+n1M49noznbS7h/8eSR0yfz3XDLMkO9dukkd9nOtCXbDO+E2GdK91mfEuhzmQwtYGn59Yj0DLlmo0vwils4QTi2//POtGnf54lU+6BKu8sVH+R71zvO73onumPmt3jfBWKUcjTilQlrMUo38dOe2RaU3qfWijcPt8yNgfz4CBjf7NfKLGcoLMgQYBaMAAHkaEQrdjvp2AAAAAElFTkSuQmCC"/>
 	</head>
 	<body>
 		<label for="select-make">Make</label>
@@ -23,12 +21,6 @@
 				<th id='selection-1'>None Selected</th>
 				<th id='selection-2'>None Selected</th>
 				<th id='selection-3'>None Selected</th>
-			</tr>
-			<tr>
-				<td></td>
-				<td><img alt="No Image" src="" id='image-1'></td>
-				<td><img alt="No Image" src="" id='image-2'></td>
-				<td><img alt="No Image" src="" id='image-3'></td>
 			</tr>
 			<tr>
 				<th>Fuel Economy</th>
