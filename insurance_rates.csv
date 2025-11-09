@@ -1,0 +1,832 @@
+Vehicle,AllCoverages,Collision,PropertyDamage,Comprehensive,Pip,MedPay,BodilyInjury
+Mini Cooper,,-32,-39.0,-33.0,-29.0,,-52.0
+Mini Cooper convertible,,-33,-41.0,1.0,-36.0,,
+Mini Cooper electric 2dr,,-26,-52.0,,,,
+Hyundai Veloster N,,38,-15.0,-1.0,-9.0,,
+Subaru BRZ,,20,,,,,
+Toyota GR86 2dr,,166,,,,,
+Dodge Challenger,96.0,108,76.0,107.0,52.0,73.0,109.0
+Dodge Challenger 4WD,,58,71.0,9.0,30.0,,
+Dodge Challenger SRT Hellcat,,202,-10.0,831.0,,,
+Dodge Challenger SRT Hellcat Redeye,,206,16.0,633.0,,,
+Mitsubishi Mirage,,44,43.0,41.0,128.0,,
+Chevrolet Spark,36.0,-6,52.0,-34.0,69.0,96.0,97.0
+Hyundai Accent,54.0,21,57.0,-19.0,91.0,103.0,114.0
+Kia Rio,74.0,32,82.0,-15.0,128.0,173.0,138.0
+Mini Cooper,,-24,-20.0,-22.0,-34.0,,
+Mitsubishi Mirage G4,,82,60.0,27.0,230.0,,
+Acura ILX,11.0,15,-2.0,-13.0,30.0,42.0,17.0
+Chevrolet Bolt electric,-32.0,-36,-13.0,-48.0,-27.0,-47.0,-33.0
+Chevrolet Bolt EUV electric 4dr,,-2,-28.0,-26.0,,,
+Honda Civic,29.0,36,20.0,-9.0,60.0,49.0,35.0
+Honda Civic hatchback,21.0,32,6.0,-5.0,40.0,39.0,27.0
+Honda Civic Si,,47,-13.0,21.0,,,
+Honda Insight hybrid,2.0,4,3.0,-16.0,27.0,15.0,0.0
+Hyundai Elantra,45.0,52,25.0,20.0,76.0,97.0,49.0
+Hyundai Elantra hybrid,,48,10.0,21.0,67.0,,
+Hyundai Elantra N 4dr,,124,,30.0,,,
+Hyundai Ioniq hybrid,22.0,25,6.0,31.0,39.0,66.0,14.0
+Hyundai Ioniq plug-in hybrid,,9,-5.0,-6.0,,,
+Kia Forte,46.0,27,36.0,23.0,78.0,117.0,72.0
+Mazda 3,4.0,4,18.0,-16.0,18.0,18.0,-1.0
+Mazda 3 4WD,,6,4.0,2.0,-8.0,,
+Mazda 3 hatchback,,-3,-13.0,-7.0,-8.0,,-15.0
+Mazda 3 hatchback 4WD,,8,-18.0,-5.0,-15.0,,-47.0
+Nissan Kicks,16.0,11,3.0,-20.0,60.0,74.0,30.0
+Nissan Leaf electric,-5.0,3,4.0,-27.0,-6.0,-24.0,-6.0
+Nissan Sentra,45.0,40,28.0,-3.0,75.0,118.0,71.0
+Nissan Versa,51.0,29,38.0,-5.0,107.0,136.0,89.0
+Subaru Impreza 4WD,,-18,,,,,
+Subaru Impreza 4WD with EyeSight,-10.0,-21,-3.0,-13.0,-11.0,18.0,-4.0
+Subaru WRX 4WD,8.0,17,4.0,-5.0,-4.0,-5.0,15.0
+Subaru WRX 4WD with EyeSight,,16,-15.0,-14.0,,,
+Toyota Corolla,19.0,6,12.0,-10.0,69.0,61.0,38.0
+Toyota Corolla hatchback,-1.0,-5,-2.0,-3.0,4.0,8.0,2.0
+Toyota Corolla hybrid,25.0,25,11.0,-2.0,48.0,58.0,37.0
+Toyota Prius hybrid,5.0,12,-4.0,1.0,1.0,31.0,4.0
+Toyota Prius hybrid 4WD,-1.0,4,-12.0,2.0,5.0,8.0,-5.0
+Toyota Prius Prime plug-in hybrid,0.0,16,-20.0,17.0,-6.0,3.0,-11.0
+Volkswagen GTI,-12.0,3,-24.0,-12.0,-7.0,-22.0,-21.0
+Chevrolet Malibu,64.0,42,54.0,0.0,92.0,109.0,122.0
+Honda Accord,20.0,17,3.0,19.0,73.0,54.0,16.0
+Honda Accord hybrid,0.0,7,-10.0,1.0,19.0,23.0,-11.0
+Hyundai Sonata,27.0,45,4.0,14.0,48.0,66.0,18.0
+Hyundai Sonata hybrid,27.0,43,11.0,39.0,19.0,46.0,14.0
+Kia K5 2WD/4WD,42.0,54,12.0,28.0,61.0,97.0,45.0
+Nissan Altima,52.0,45,31.0,20.0,101.0,106.0,72.0
+Nissan Altima 4WD,28.0,30,12.0,20.0,42.0,65.0,31.0
+Nissan Maxima,35.0,49,1.0,49.0,67.0,51.0,24.0
+Subaru Legacy 4WD with EyeSight,-23.0,-25,-33.0,3.0,-28.0,-8.0,-27.0
+Toyota Camry,17.0,19,-7.0,10.0,65.0,54.0,17.0
+Toyota Camry 4WD,17.0,23,3.0,17.0,55.0,29.0,10.0
+Toyota Camry hybrid,23.0,36,5.0,12.0,39.0,48.0,19.0
+Toyota Mirai fuel cell,,52,-7.0,,,,
+Volkswagen Jetta,14.0,9,16.0,-19.0,28.0,35.0,31.0
+Volkswagen Passat,-1.0,1,-10.0,-6.0,16.0,28.0,-2.0
+Chrysler 300,51.0,37,39.0,10.0,73.0,115.0,83.0
+Chrysler 300 4WD,,29,45.0,-6.0,,,
+Chrysler 300 HEMI,,68,31.0,55.0,,,
+Dodge Charger,109.0,100,108.0,38.0,105.0,132.0,160.0
+Dodge Charger 4WD,,67,71.0,-1.0,37.0,,
+Dodge Charger HEMI,181.0,227,98.0,319.0,89.0,127.0,148.0
+Dodge Charger SRT Hellcat,,406,131.0,1403.0,,,
+Kia Stinger 2WD/4WD,36.0,67,9.0,39.0,36.0,35.0,21.0
+Toyota Avalon,-3.0,12,-31.0,15.0,5.0,1.0,-12.0
+Toyota Avalon hybrid,2.0,21,-22.0,22.0,7.0,-9.0,-14.0
+Volkswagen Arteon,,42,-6.0,36.0,,,
+Volkswagen Arteon 4WD,,18,-27.0,44.0,,,
+Acura TLX 4dr,,26,-1.0,15.0,42.0,,
+Acura TLX 4dr 4WD,,29,-18.0,18.0,2.0,,
+Alfa Romeo Giulia 4dr,,80,3.0,53.0,17.0,,
+Alfa Romeo Giulia 4dr 4WD,,54,10.0,53.0,10.0,,
+Audi A3 4dr,,16,,,,,
+Audi A3 4dr 4WD,,5,,-37.0,,,
+Audi A4 4dr 4WD,3.0,41,-19.0,18.0,-21.0,-14.0,-26.0
+Audi A4 Allroad station wagon 4WD,,26,-37.0,27.0,,,
+Audi A5 2dr 4WD,,82,-25.0,42.0,,,
+Audi A5 4dr 4WD hatchback,,56,-27.0,33.0,-16.0,,
+Audi A5 convertible 4WD,,31,-39.0,59.0,,,
+Audi RS5 4dr 4WD,,163,,146.0,,,
+Audi S4 4dr 4WD,,102,-15.0,72.0,,,
+Audi S5 2dr 4WD,,128,,,,,
+Audi S5 4dr 4WD hatchback,,97,-10.0,60.0,,,
+Audi S5 convertible 4WD,,52,,174.0,,,
+BMW 2 series 2dr,,50,,,,,
+BMW 2 series 4dr,,43,4.0,-28.0,,,
+BMW 2 series 4dr 4WD,,41,-2.0,9.0,0.0,,
+BMW 3 series 4dr,15.0,40,2.0,8.0,-4.0,22.0,2.0
+BMW 3 series 4dr 4WD,1.0,29,-14.0,19.0,0.0,-25.0,-29.0
+BMW 3 series 4dr plug-in hybrid 4WD,,57,,,,,
+BMW 3 series plug-in hybrid 4dr,,32,-7.0,3.0,,,
+BMW 4 series 2dr,,82,-10.0,38.0,,,
+BMW 4 series 2dr 4WD,,58,-5.0,71.0,,,
+BMW 4 series 4dr,,40,,2.0,,,
+BMW 4 series convertible,,29,-24.0,70.0,,,
+BMW 4 series convertible 4WD,,5,-34.0,,-42.0,,
+BMW M2 Competition 2dr,,71,-35.0,27.0,,,
+BMW M235xi 4dr 4WD,,87,-30.0,29.0,,,
+BMW M240xi 2dr 4WD,,94,,,,,
+BMW M3 4dr,,339,35.0,91.0,,,
+BMW M3 4dr 4WD,,549,,101.0,,,
+BMW M340i 4dr,,95,-9.0,50.0,-3.0,,-14.0
+BMW M340xi 4dr 4WD,,72,-19.0,87.0,-2.0,,
+BMW M4 2dr,,234,33.0,128.0,,,
+BMW M4 2dr 4WD,,641,,362.0,,,
+BMW M440i convertible,,55,,75.0,,,
+BMW M440xi 2dr 4WD,,87,-30.0,80.0,,,
+BMW M440xi 4dr 4WD,,132,,,,,
+Cadillac CT4 4dr,,25,-24.0,11.0,34.0,,
+Cadillac CT4 4dr 4WD,,21,-25.0,-12.0,18.0,,
+Cadillac CT4-V 4dr,,106,,13.0,,,
+Cadillac CT4-V 4dr 4WD,,30,,89.0,,,
+Cadillac CT5 4dr,,23,-10.0,3.0,7.0,,
+Cadillac CT5 4dr 4WD,,26,-7.0,14.0,-1.0,,
+Cadillac CT5-V 4dr,,29,,,,,
+Cadillac CT5-V 4dr 4WD,,39,,96.0,,,
+Infiniti Q50 4dr,,87,20.0,112.0,32.0,,64.0
+Infiniti Q50 4dr 4WD,,74,26.0,82.0,18.0,,
+Infiniti Q60 2dr,,123,-1.0,171.0,,,
+Infiniti Q60 2dr 4WD,,99,-15.0,204.0,,,
+Jaguar F-Type 2dr,,76,,,,,
+Jaguar F-Type 2dr 4WD,,85,,,,,
+Jaguar F-Type convertible,,146,,,,,
+Jaguar F-Type convertible 4WD,,117,,,,,
+Lexus ES 250 4dr 4WD,,43,-28.0,35.0,16.0,,
+Lexus ES 300h hybrid 4dr,37.0,67,-11.0,42.0,0.0,129.0,32.0
+Lexus ES 350 4dr,-2.0,22,-33.0,23.0,-2.0,18.0,-23.0
+Lexus IS 300 4dr,,45,-7.0,17.0,12.0,,-5.0
+Lexus IS 300 4dr 4WD,,46,-9.0,43.0,50.0,,
+Lexus IS 350 4dr,,73,-20.0,43.0,6.0,,
+Lexus IS 350 4dr 4WD,,92,-9.0,57.0,36.0,,
+Mercedes-Benz A class 4dr,,47,-4.0,31.0,46.0,,14.0
+Mercedes-Benz A class 4dr 4WD,,51,-12.0,43.0,41.0,,
+Mercedes-Benz C class 2dr,,74,13.0,25.0,,,
+Mercedes-Benz C class 2dr 4WD,,46,,44.0,,,
+Mercedes-Benz C class 4dr,14.0,33,-4.0,14.0,17.0,42.0,-1.0
+Mercedes-Benz C class 4dr 4WD,,45,0.0,29.0,17.0,,
+Mercedes-Benz C class AMG 2dr 4WD,,80,,111.0,,,
+Mercedes-Benz C class AMG convertible 4WD,,57,,77.0,,,
+Mercedes-Benz C class convertible,,30,-31.0,70.0,,,
+Mercedes-Benz C class convertible 4WD,,-12,-66.0,35.0,,,
+Mercedes-Benz CLA class 4dr,,73,8.0,34.0,33.0,,24.0
+Mercedes-Benz CLA class 4dr 4WD,,79,-5.0,70.0,44.0,,
+Mercedes-Benz CLA class AMG 4dr 4WD,,141,-17.0,141.0,,,
+Tesla Model 3 electric 4dr,14.0,58,-4.0,-10.0,1.0,9.0,-10.0
+Tesla Model 3 electric 4dr 4WD,8.0,60,-17.0,9.0,-15.0,-13.0,-25.0
+Volvo S60 4dr,,-3,-8.0,-4.0,-10.0,,
+Volvo S60 4dr 4WD,,6,-19.0,10.0,-29.0,,
+Volvo S60 plug-in hybrid 4dr 4WD,,15,,-29.0,,,
+Audi A6 4dr 4WD,,57,-24.0,84.0,-31.0,,
+Audi A6 Allroad station wagon 4WD,,21,-43.0,74.0,,,
+Audi A7 4dr 4WD,,100,-3.0,37.0,,,
+Audi RS6 station wagon 4WD,,137,,119.0,,,
+Audi RS7 4dr 4WD,,215,,234.0,,,
+Audi S6 4dr 4WD,,98,,125.0,,,
+Audi S7 4dr 4WD,,170,,201.0,,,
+BMW 5 series 4dr,26.0,64,-8.0,72.0,-23.0,41.0,-7.0
+BMW 5 series 4dr 4WD,,62,-7.0,122.0,-18.0,,
+BMW 5 series plug-in hybrid 4dr,,61,37.0,61.0,,,
+BMW 5 series plug-in hybrid 4dr 4WD,,63,,50.0,,,
+BMW 8 series 4dr,,181,25.0,179.0,,,
+BMW 8 series 4dr 4WD,,131,,289.0,,,
+BMW 8 series convertible,,56,,,,,
+BMW M5 4dr 4WD,,406,59.0,274.0,,,
+BMW M550xi 4dr 4WD,,130,3.0,190.0,-25.0,,
+BMW M8 2dr 4WD,,586,,337.0,,,
+BMW M8 4dr 4WD,,599,,609.0,,,
+BMW M8 convertible 4WD,,292,,508.0,,,
+BMW M850xi 2dr 4WD,,148,,484.0,,,
+BMW M850xi 4dr 4WD,,370,26.0,433.0,,,
+BMW M850xi convertible 4WD,,129,,288.0,,,
+Genesis G70 4dr 2WD/4WD,8.0,41,-8.0,29.0,11.0,-1.0,-32.0
+Genesis G80 4dr 2WD/4WD,,45,-5.0,57.0,-7.0,,
+Jaguar XF 4dr,,79,,,,,
+Jaguar XF 4dr 4WD,,64,,101.0,,,
+Lexus LC 500 2dr,,47,,92.0,,,
+Lexus LC 500 convertible,,92,-39.0,160.0,,,
+Lexus RC 300 2dr,,39,,-26.0,,,
+Lexus RC 300 2dr 4WD,,34,,13.0,,,
+Lexus RC 350 2dr,,46,-15.0,25.0,,,
+Lexus RC 350 2dr 4WD,,51,,0.0,,,
+Lexus RC-F 2dr,,150,,,,,
+Lucid Air electric 4dr 4WD,,300,,,,,
+Maserati Ghibli 4dr,,174,,253.0,,,
+Maserati Ghibli 4dr 4WD,,154,,122.0,,,
+Mercedes-Benz CLS class 4dr 4WD,,131,,136.0,,,
+Mercedes-Benz E class 2dr,,81,-35.0,35.0,,,
+Mercedes-Benz E class 2dr 4WD,,113,-24.0,77.0,,,
+Mercedes-Benz E class 4dr,28.0,58,-12.0,61.0,7.0,27.0,12.0
+Mercedes-Benz E class 4dr 4WD,,60,-19.0,75.0,-11.0,,
+Mercedes-Benz E class AMG 2dr 4WD,,237,,,,,
+Mercedes-Benz E class AMG 4dr 4WD,,181,13.0,190.0,,,
+Mercedes-Benz E class AMG convertible 4WD,,75,,165.0,,,
+Mercedes-Benz E class convertible,,72,-24.0,,,,
+Mercedes-Benz E class convertible 4WD,,45,-41.0,121.0,,,
+Mercedes-Benz E class station wagon 4WD,,25,-25.0,113.0,,,
+Polestar 2 electric 4dr 4WD,,11,-45.0,,,,
+Tesla Model S 4dr electric 4WD,38.0,141,-12.0,53.0,-40.0,-37.0,-22.0
+Audi A8L 4dr 4WD,,92,-18.0,168.0,,,
+Audi S8 4dr 4WD,,241,,367.0,,,
+Bentley Continental GT 2dr 4WD,,378,,582.0,,,
+Bentley Continental GTC convertible 4WD,,287,-41.0,1139.0,,,
+Bentley Flying Spur 4dr 4WD,,392,,430.0,,,
+BMW 7 series 4dr,,189,57.0,228.0,,,
+BMW 7 series 4dr 4WD,,154,6.0,292.0,-21.0,,
+Genesis G90 4dr 2WD/4WD,,38,-38.0,123.0,,,
+Lexus LS 500 4dr,,76,-15.0,86.0,,,
+Lexus LS 500 4dr 4WD,,101,,88.0,,,
+Mercedes-Benz EQS electric sedan 4dr,,162,,,,,
+Mercedes-Benz S class 4dr LWB 4WD,,200,-16.0,376.0,-14.0,,
+Volvo S90 4dr LWB 4WD,,22,-28.0,36.0,,,
+Volvo V90 Cross Country station wagon 4WD,,-1,,33.0,,,
+Mazda MX-5 Miata convertible,-25.0,-10,-35.0,-19.0,-3.0,-30.0,-46.0
+Porsche Boxster convertible,,54,-42.0,54.0,,,
+Porsche Cayman 2dr,,59,-68.0,,,,
+BMW Z4 convertible,,13,-60.0,13.0,-46.0,,
+Chevrolet Corvette 2dr,-9.0,45,-55.0,16.0,-50.0,-43.0,-35.0
+Chevrolet Corvette convertible,-17.0,14,-57.0,47.0,-53.0,-59.0,-42.0
+Ferrari F8 Tributo 2dr,,489,,,,,
+Ford Mustang 2dr,62.0,81,58.0,0.0,50.0,83.0,75.0
+Ford Mustang convertible,,16,-11.0,8.0,7.0,,
+Ford Mustang GT 2dr,59.0,122,22.0,19.0,23.0,37.0,47.0
+Ford Mustang GT convertible,,-2,-35.0,-1.0,,,
+Ford Mustang Mach 1 2dr,,37,-65.0,-14.0,,,
+Ford Mustang Shelby GT500 2dr,,59,-28.0,-8.0,-69.0,,
+McLaren 720S convertible,,652,,621.0,,,
+Porsche 911 Carrera 2dr,,122,-76.0,86.0,-66.0,,
+Porsche 911 Carrera convertible,,108,-66.0,119.0,-71.0,,
+Porsche 911 Targa 2dr 4WD,,110,,,,,
+Porsche 911 Turbo 2dr 4WD,,332,,,,,
+Porsche 911 Turbo convertible 4WD,,115,,,,,
+Toyota GR Supra 2dr,17.0,90,-22.0,11.0,7.0,-4.0,-31.0
+Aston Martin Vantage V8 2dr,,428,,524.0,,,
+Audi e-tron GT electric 4dr 4WD,,161,,,,,
+Audi R8 2dr 4WD,,214,,542.0,,,
+Chevrolet Camaro 2dr,59.0,84,47.0,10.0,56.0,65.0,66.0
+Chevrolet Camaro convertible,,31,-4.0,-8.0,4.0,,
+Chevrolet Camaro ZL1 2dr,,94,3.0,134.0,,,
+Mercedes-Benz GT class AMG 4dr 4WD,,241,12.0,265.0,6.0,,
+Porsche Panamera 4dr,,98,-12.0,245.0,-48.0,,
+Porsche Panamera GTS 4dr 4WD,,252,,,,,
+Porsche Panamera plug-in hybrid 4dr 4WD,,110,,112.0,,,
+Porsche Taycan electric 4dr 4WD,,175,-23.0,207.0,-63.0,,-35.0
+Chrysler Pacifica,-10.0,-23,-1.0,-19.0,-8.0,-9.0,3.0
+Chrysler Pacifica 4WD,-17.0,-22,-11.0,-11.0,-25.0,-27.0,-16.0
+Chrysler Pacifica plug-in hybrid,-18.0,-18,-23.0,-3.0,-31.0,-54.0,-13.0
+Chrysler Voyager minivan,,-18,31.0,-19.0,31.0,,
+Honda Odyssey,-22.0,-20,-19.0,-23.0,-18.0,-12.0,-28.0
+Kia Carnival,1.0,3,-12.0,9.0,24.0,14.0,-6.0
+Toyota Sienna hybrid van,7.0,17,-12.0,2.0,18.0,30.0,6.0
+Toyota Sienna hybrid van 4WD,-2.0,9,-19.0,18.0,-6.0,-12.0,-10.0
+Chevrolet Colorado crew cab,15.0,-3,49.0,-40.0,6.0,7.0,44.0
+Chevrolet Colorado crew cab 4WD,-7.0,-15,26.0,-30.0,-33.0,-29.0,1.0
+Chevrolet Colorado ext. cab,,-19,42.0,-43.0,-20.0,,33.0
+Chevrolet Colorado ext. cab 4WD,,-37,-4.0,-41.0,-52.0,,
+Ford Maverick crew cab pickup,,-29,-16.0,-33.0,,,
+Ford Maverick crew cab pickup 4WD,,-19,-37.0,-13.0,-21.0,,
+Ford Maverick hybrid crew cab pickup,,-31,-18.0,-18.0,-27.0,,
+Ford Ranger crew cab,8.0,-11,39.0,-36.0,-10.0,-4.0,37.0
+Ford Ranger crew cab 4WD,-10.0,-12,15.0,-35.0,-25.0,-29.0,-6.0
+Ford Ranger ext. cab,,-28,42.0,-42.0,-26.0,,27.0
+Ford Ranger ext. cab 4WD,-15.0,-23,22.0,-33.0,-33.0,-37.0,-19.0
+GMC Canyon crew cab,,-18,24.0,-46.0,-8.0,,34.0
+GMC Canyon crew cab 4WD,-14.0,-20,8.0,-32.0,-37.0,-43.0,-2.0
+GMC Canyon ext. cab,,-27,,-33.0,,,
+GMC Canyon ext. cab 4WD,,-45,,,,,
+Honda Ridgeline crew cab 4WD,-26.0,-24,-21.0,-18.0,-36.0,-39.0,-32.0
+Hyundai Santa Cruz crew cab pickup,,3,-7.0,21.0,,,
+Hyundai Santa Cruz crew cab pickup 4WD,,11,-11.0,-10.0,-29.0,-24.0,
+Jeep Gladiator crew cab pickup 4WD,-4.0,-35,50.0,-24.0,-31.0,-30.0,13.0
+Nissan Frontier crew cab LWB 4WD,,-10,,28.0,,,
+Nissan Frontier crew cab SWB,,12,-4.0,-17.0,-12.0,,
+Nissan Frontier crew cab SWB 4WD,-18.0,-12,-20.0,-14.0,-22.0,-35.0,-22.0
+Nissan Frontier ext. cab,,18,,-21.0,,,
+Nissan Frontier ext. cab 4WD,,-17,,-22.0,,,
+Toyota Tacoma double cab,,-4,8.0,-14.0,10.0,,1.0
+Toyota Tacoma double cab 4WD,-14.0,-8,-8.0,-20.0,-24.0,-25.0,-20.0
+Toyota Tacoma double cab LWB,,-1,,-45.0,,,
+Toyota Tacoma double cab LWB 4WD,,2,-17.0,-18.0,-32.0,,
+Toyota Tacoma xtra cab,,-16,2.0,-10.0,,,
+Toyota Tacoma xtra cab 4WD,,-24,-34.0,-42.0,-14.0,,
+Chevrolet Silverado 1500,,-10,60.0,-38.0,,,
+Chevrolet Silverado 1500 4WD,,-34,13.0,-43.0,,,
+Chevrolet Silverado 1500 crew cab,18.0,-4,41.0,-13.0,-8.0,8.0,52.0
+Chevrolet Silverado 1500 crew cab 4WD,0.0,-9,27.0,-9.0,-36.0,-35.0,12.0
+Chevrolet Silverado 1500 ext. cab,,-4,72.0,-30.0,1.0,,73.0
+Chevrolet Silverado 1500 ext. cab 4WD,-1.0,-13,31.0,-28.0,-42.0,-31.0,22.0
+Ford F-150,,16,74.0,-36.0,,,
+Ford F-150 4WD,,15,5.0,-22.0,,,
+Ford F-150 hybrid crew,,-14,,-15.0,,,
+Ford F-150 hybrid crew 4WD,-10.0,2,-12.0,2.0,-46.0,-41.0,-13.0
+Ford F-150 Lightning electric crew cab pickup 4WD,,34,,,,,
+Ford F-150 SuperCab,,-11,32.0,-14.0,,,
+Ford F-150 SuperCab 4WD,,-21,-8.0,-18.0,-45.0,-36.0,
+Ford F-150 SuperCrew,-4.0,-1,0.0,-21.0,-8.0,-3.0,1.0
+Ford F-150 SuperCrew 4WD,-16.0,-10,-12.0,-5.0,-37.0,-35.0,-24.0
+GMC Sierra 1500,,-13,,,,,
+GMC Sierra 1500 4WD,,-23,,-52.0,,,
+GMC Sierra 1500 crew cab,3.0,-10,13.0,4.0,-18.0,-12.0,19.0
+GMC Sierra 1500 crew cab 4WD,-7.0,-11,6.0,14.0,-39.0,-40.0,-8.0
+GMC Sierra 1500 ext. cab,,6,51.0,-1.0,,,
+GMC Sierra 1500 ext. cab 4WD,-10.0,-10,7.0,-21.0,-48.0,-29.0,-6.0
+Nissan Titan crew cab short bed,,22,-1.0,-9.0,11.0,,
+Nissan Titan crew cab short bed 4WD,-10.0,-1,-5.0,2.0,-33.0,-28.0,-21.0
+Nissan Titan XD crew cab 4WD,,26,-6.0,18.0,,,
+Ram 1500 Classic crew cab LWB,,0,67.0,-26.0,,,
+Ram 1500 Classic crew cab LWB 4WD,,30,122.0,-41.0,,,
+Ram 1500 Classic crew cab SWB,,3,77.0,-44.0,,,
+Ram 1500 Classic crew cab SWB 4WD,18.0,-4,70.0,-34.0,-16.0,-13.0,48.0
+Ram 1500 Classic ext. cab,,5,95.0,-29.0,0.0,,84.0
+Ram 1500 Classic ext. cab 4WD,6.0,-7,51.0,-43.0,-35.0,-29.0,29.0
+Ram 1500 Classic LWB,,-8,,,,,
+Ram 1500 Classic SWB,,1,,-20.0,,,
+Ram 1500 crew cab LWB,,-8,21.0,-13.0,,,
+Ram 1500 crew cab LWB 4WD,-9.0,-7,13.0,-14.0,-38.0,-33.0,-14.0
+Ram 1500 crew cab SWB,10.0,-1,29.0,9.0,-7.0,-2.0,18.0
+Ram 1500 crew cab SWB 4WD,-2.0,-5,15.0,7.0,-27.0,-30.0,-6.0
+Ram 1500 quad cab,,-11,50.0,-1.0,5.0,,41.0
+Ram 1500 quad cab 4WD,-3.0,-14,32.0,-23.0,-33.0,-27.0,7.0
+Rivian R1T 4dr electric 4WD,,41,-12.0,,,,
+Toyota Tundra CrewMax,-3.0,-15,-5.0,45.0,-4.0,-14.0,-13.0
+Toyota Tundra CrewMax 4WD,-15.0,-16,-2.0,7.0,-35.0,-40.0,-25.0
+Toyota Tundra CrewMax hybrid pickup 4WD,,30,,58.0,,,
+Toyota Tundra CrewMax pickup LWB 4WD,,-24,-21.0,31.0,,,
+Toyota Tundra double cab,,-17,13.0,24.0,-1.0,,
+Toyota Tundra double cab 4WD,-13.0,-16,5.0,-5.0,-33.0,-36.0,-20.0
+Toyota Tundra double cab LWB,,-52,,69.0,,,
+Toyota Tundra double cab LWB 4WD,,-13,24.0,5.0,,,
+Chevrolet Silverado 2500 4WD,,-32,26.0,-53.0,,,
+Chevrolet Silverado 2500 crew cab,,-27,76.0,-25.0,,,
+Chevrolet Silverado 2500 crew cab 4WD,11.0,-11,57.0,13.0,-50.0,-48.0,28.0
+Chevrolet Silverado 2500 ext. cab,,-36,,,,,
+Chevrolet Silverado 2500 ext. cab 4WD,,-22,39.0,-35.0,,,
+Chevrolet Silverado 3500 4WD,,-43,,,,,
+Chevrolet Silverado 3500 crew cab 4WD,16.0,3,59.0,21.0,-50.0,-45.0,21.0
+Ford F-250 4WD,,-41,51.0,-61.0,,,
+Ford F-250 SuperCab,,-36,,12.0,,,
+Ford F-250 SuperCab 4WD,,-37,43.0,-41.0,-59.0,,
+Ford F-250 SuperCrew,,-14,,-18.0,,,
+Ford F-250 SuperCrew 4WD,8.0,-17,47.0,59.0,-53.0,-54.0,7.0
+Ford F-350 4WD,,-30,28.0,3.0,,,
+Ford F-350 SuperCab 4WD,,-39,8.0,-40.0,,,
+Ford F-350 SuperCrew 4WD,14.0,-4,43.0,86.0,-55.0,-52.0,4.0
+Ford F-450 SuperCrew 4WD,,15,75.0,162.0,-51.0,,
+GMC Sierra 2500 4WD,,-45,,,,,
+GMC Sierra 2500 crew cab 4WD,16.0,-3,56.0,51.0,-49.0,-53.0,20.0
+GMC Sierra 2500 ext. cab 4WD,,-29,22.0,-48.0,,,
+GMC Sierra 3500 crew cab 4WD,23.0,10,60.0,59.0,-50.0,-50.0,21.0
+Ram 2500 4WD,,-40,45.0,,,,
+Ram 2500 crew cab LWB,,-37,,-33.0,,,
+Ram 2500 crew cab LWB 4WD,,-2,80.0,-9.0,-44.0,,
+Ram 2500 crew cab SWB 4WD,5.0,-12,59.0,-3.0,-45.0,-47.0,10.0
+Ram 2500 mega cab 4WD,22.0,0,66.0,53.0,-41.0,-31.0,25.0
+Ram 3500 4WD,,-19,,,,,
+Ram 3500 crew cab LWB 4WD,36.0,14,106.0,64.0,-29.0,-32.0,20.0
+Ram 3500 crew cab SWB 4WD,,5,37.0,16.0,,,
+Ram 3500 mega cab 4WD,,26,73.0,82.0,-37.0,,
+Mitsubishi Mirage,,44,43.0,41.0,128.0,,
+Chevrolet Spark,36.0,-6,52.0,-34.0,69.0,96.0,97.0
+Hyundai Accent,54.0,21,57.0,-19.0,91.0,103.0,114.0
+Kia Rio,74.0,32,82.0,-15.0,128.0,173.0,138.0
+Mini Cooper,,-24,-20.0,-22.0,-34.0,,
+Mitsubishi Mirage G4,,82,60.0,27.0,230.0,,
+Acura ILX,11.0,15,-2.0,-13.0,30.0,42.0,17.0
+Chevrolet Bolt electric,-32.0,-36,-13.0,-48.0,-27.0,-47.0,-33.0
+Chevrolet Bolt EUV electric 4dr,,-2,-28.0,-26.0,,,
+Honda Civic,29.0,36,20.0,-9.0,60.0,49.0,35.0
+Honda Civic hatchback,21.0,32,6.0,-5.0,40.0,39.0,27.0
+Honda Civic Si,,47,-13.0,21.0,,,
+Honda Insight hybrid,2.0,4,3.0,-16.0,27.0,15.0,0.0
+Hyundai Elantra,45.0,52,25.0,20.0,76.0,97.0,49.0
+Hyundai Elantra hybrid,,48,10.0,21.0,67.0,,
+Hyundai Elantra N 4dr,,124,,30.0,,,
+Hyundai Ioniq hybrid,22.0,25,6.0,31.0,39.0,66.0,14.0
+Hyundai Ioniq plug-in hybrid,,9,-5.0,-6.0,,,
+Kia Forte,46.0,27,36.0,23.0,78.0,117.0,72.0
+Mazda 3,4.0,4,18.0,-16.0,18.0,18.0,-1.0
+Mazda 3 4WD,,6,4.0,2.0,-8.0,,
+Mazda 3 hatchback,,-3,-13.0,-7.0,-8.0,,-15.0
+Mazda 3 hatchback 4WD,,8,-18.0,-5.0,-15.0,,-47.0
+Nissan Kicks,16.0,11,3.0,-20.0,60.0,74.0,30.0
+Nissan Leaf electric,-5.0,3,4.0,-27.0,-6.0,-24.0,-6.0
+Nissan Sentra,45.0,40,28.0,-3.0,75.0,118.0,71.0
+Nissan Versa,51.0,29,38.0,-5.0,107.0,136.0,89.0
+Subaru Impreza 4WD,,-18,,,,,
+Subaru Impreza 4WD with EyeSight,-10.0,-21,-3.0,-13.0,-11.0,18.0,-4.0
+Subaru WRX 4WD,8.0,17,4.0,-5.0,-4.0,-5.0,15.0
+Subaru WRX 4WD with EyeSight,,16,-15.0,-14.0,,,
+Toyota Corolla,19.0,6,12.0,-10.0,69.0,61.0,38.0
+Toyota Corolla hatchback,-1.0,-5,-2.0,-3.0,4.0,8.0,2.0
+Toyota Corolla hybrid,25.0,25,11.0,-2.0,48.0,58.0,37.0
+Toyota Prius hybrid,5.0,12,-4.0,1.0,1.0,31.0,4.0
+Toyota Prius hybrid 4WD,-1.0,4,-12.0,2.0,5.0,8.0,-5.0
+Toyota Prius Prime plug-in hybrid,0.0,16,-20.0,17.0,-6.0,3.0,-11.0
+Volkswagen GTI,-12.0,3,-24.0,-12.0,-7.0,-22.0,-21.0
+Chevrolet Malibu,64.0,42,54.0,0.0,92.0,109.0,122.0
+Honda Accord,20.0,17,3.0,19.0,73.0,54.0,16.0
+Honda Accord hybrid,0.0,7,-10.0,1.0,19.0,23.0,-11.0
+Hyundai Sonata,27.0,45,4.0,14.0,48.0,66.0,18.0
+Hyundai Sonata hybrid,27.0,43,11.0,39.0,19.0,46.0,14.0
+Kia K5 2WD/4WD,42.0,54,12.0,28.0,61.0,97.0,45.0
+Nissan Altima,52.0,45,31.0,20.0,101.0,106.0,72.0
+Nissan Altima 4WD,28.0,30,12.0,20.0,42.0,65.0,31.0
+Nissan Maxima,35.0,49,1.0,49.0,67.0,51.0,24.0
+Subaru Legacy 4WD with EyeSight,-23.0,-25,-33.0,3.0,-28.0,-8.0,-27.0
+Toyota Camry,17.0,19,-7.0,10.0,65.0,54.0,17.0
+Toyota Camry 4WD,17.0,23,3.0,17.0,55.0,29.0,10.0
+Toyota Camry hybrid,23.0,36,5.0,12.0,39.0,48.0,19.0
+Toyota Mirai fuel cell,,52,-7.0,,,,
+Volkswagen Jetta,14.0,9,16.0,-19.0,28.0,35.0,31.0
+Volkswagen Passat,-1.0,1,-10.0,-6.0,16.0,28.0,-2.0
+Chrysler 300,51.0,37,39.0,10.0,73.0,115.0,83.0
+Chrysler 300 4WD,,29,45.0,-6.0,,,
+Chrysler 300 HEMI,,68,31.0,55.0,,,
+Dodge Charger,109.0,100,108.0,38.0,105.0,132.0,160.0
+Dodge Charger 4WD,,67,71.0,-1.0,37.0,,
+Dodge Charger HEMI,181.0,227,98.0,319.0,89.0,127.0,148.0
+Dodge Charger SRT Hellcat,,406,131.0,1403.0,,,
+Kia Stinger 2WD/4WD,36.0,67,9.0,39.0,36.0,35.0,21.0
+Toyota Avalon,-3.0,12,-31.0,15.0,5.0,1.0,-12.0
+Toyota Avalon hybrid,2.0,21,-22.0,22.0,7.0,-9.0,-14.0
+Volkswagen Arteon,,42,-6.0,36.0,,,
+Volkswagen Arteon 4WD,,18,-27.0,44.0,,,
+Honda HR-V 4dr,13.0,-2,22.0,-42.0,31.0,33.0,46.0
+Honda HR-V 4dr 4WD,8.0,-3,18.0,-28.0,25.0,24.0,24.0
+Hyundai Venue 4dr,13.0,-3,14.0,-22.0,36.0,53.0,37.0
+Kia Niro electric 4dr,,-17,-18.0,-26.0,-15.0,,
+Kia Niro hybrid 4dr,14.0,4,14.0,-7.0,32.0,68.0,24.0
+Kia Niro plug-in hybrid 4dr,,-10,-16.0,-25.0,,,
+Mazda CX-3 4dr 4WD,,-14,2.0,-13.0,-10.0,,
+Chevrolet Equinox 4dr,-1.0,-10,-6.0,-30.0,30.0,49.0,14.0
+Chevrolet Equinox 4dr 4WD,-14.0,-15,-17.0,-27.0,2.0,9.0,-12.0
+Chevrolet Trailblazer 4dr,-5.0,-11,-10.0,-28.0,16.0,32.0,7.0
+Chevrolet Trailblazer 4dr 4WD,-16.0,-20,-19.0,-27.0,-1.0,-1.0,-10.0
+Chevrolet Trax 4dr,37.0,-5,61.0,-43.0,57.0,81.0,102.0
+Chevrolet Trax 4dr 4WD,23.0,-8,42.0,-41.0,27.0,59.0,74.0
+Fiat 500X 4dr 4WD,,-39,,,,,
+Ford Bronco Sport 4dr 4WD,-12.0,-17,-11.0,2.0,-16.0,-10.0,-14.0
+Ford EcoSport 4dr 4WD,36.0,14,40.0,-15.0,63.0,71.0,76.0
+Ford Escape 4dr,-4.0,-16,-4.0,-17.0,14.0,25.0,7.0
+Ford Escape 4dr 4WD,-12.0,-17,-11.0,-14.0,-6.0,3.0,-9.0
+Ford Escape hybrid 4dr,-17.0,-14,-13.0,-20.0,-3.0,-5.0,-31.0
+Ford Escape hybrid 4dr 4WD,-16.0,-14,-14.0,-8.0,-15.0,-8.0,-28.0
+Ford Escape plug-in hybrid 4dr,,-4,1.0,-22.0,,,
+GMC Terrain 4dr,-9.0,-10,-14.0,-23.0,16.0,24.0,-10.0
+GMC Terrain 4dr 4WD,-14.0,-11,-23.0,-19.0,-4.0,9.0,-14.0
+Honda CR-V 4dr,-24.0,-36,-23.0,-28.0,-6.0,-3.0,-19.0
+Honda CR-V 4dr 4WD,-24.0,-34,-23.0,-7.0,-3.0,-11.0,-29.0
+Honda CR-V hybrid 4dr 4WD,-24.0,-30,-15.0,-16.0,-11.0,-21.0,-31.0
+Hyundai IONIQ 5 electric 4dr,,50,-9.0,34.0,,,
+Hyundai IONIQ 5 electric 4dr 4WD,,71,-5.0,30.0,,,
+Hyundai Kona 4dr,-9.0,-19,-5.0,-37.0,12.0,17.0,4.0
+Hyundai Kona 4dr 4WD,-14.0,-15,-9.0,-30.0,-2.0,9.0,-14.0
+Hyundai Kona electric 4dr,,-7,-28.0,-45.0,-7.0,,
+Hyundai Santa Fe 4dr,-12.0,-12,-22.0,-13.0,6.0,11.0,-13.0
+Hyundai Santa Fe 4dr 4WD,-14.0,-7,-22.0,-4.0,-2.0,3.0,-28.0
+Hyundai Santa Fe hybrid 4dr 4WD,,25,1.0,-7.0,8.0,,
+Hyundai Santa Fe plug-in hybrid 4dr 4WD,,15,-36.0,-19.0,,,
+Hyundai Tucson 4dr,-9.0,2,-24.0,-17.0,6.0,24.0,-15.0
+Hyundai Tucson 4dr 4WD,-11.0,0,-18.0,-15.0,2.0,5.0,-24.0
+Hyundai Tucson hybrid 4dr 4WD,-7.0,1,-15.0,-7.0,2.0,-4.0,-13.0
+Jeep Compass 4dr,25.0,-3,43.0,-38.0,51.0,49.0,69.0
+Jeep Compass 4dr 4WD,5.0,-15,27.0,-42.0,14.0,31.0,31.0
+Jeep Renegade 4dr,37.0,9,53.0,-17.0,59.0,96.0,73.0
+Jeep Renegade 4dr 4WD,12.0,-7,23.0,-16.0,11.0,37.0,39.0
+Kia EV6 electric 4dr,,65,,9.0,,,
+Kia EV6 electric 4dr 4WD,,58,-16.0,-5.0,,,
+Kia Seltos 4dr,4.0,-14,10.0,-25.0,22.0,40.0,25.0
+Kia Seltos 4dr 4WD,-3.0,-14,-2.0,3.0,13.0,17.0,0.0
+Kia Sportage 4dr,7.0,-20,-1.0,34.0,32.0,38.0,20.0
+Kia Sportage 4dr 4WD,-7.0,-26,-5.0,19.0,6.0,22.0,-7.0
+Mazda CX-30 4dr,-18.0,-32,2.0,-31.0,-8.0,-28.0,-11.0
+Mazda CX-30 4dr 4WD,-20.0,-30,-2.0,-23.0,-18.0,-23.0,-19.0
+Mazda CX-5 4dr 4WD,-24.0,-25,-13.0,-30.0,-20.0,-24.0,-30.0
+Mitsubishi Eclipse Cross 4dr,,30,48.0,-6.0,110.0,,
+Mitsubishi Eclipse Cross 4dr 4WD,,37,40.0,17.0,68.0,,
+Mitsubishi Outlander 4dr,,33,-8.0,0.0,70.0,,
+Mitsubishi Outlander 4dr 4WD,21.0,30,-3.0,39.0,60.0,48.0,4.0
+Mitsubishi Outlander Sport 4dr,81.0,39,64.0,140.0,144.0,144.0,85.0
+Mitsubishi Outlander Sport 4dr 4WD,65.0,39,47.0,116.0,94.0,128.0,66.0
+Nissan Rogue 4dr,4.0,-5,0.0,-22.0,34.0,44.0,19.0
+Nissan Rogue 4dr 4WD,-1.0,-9,-2.0,-21.0,21.0,30.0,7.0
+Nissan Rogue Sport 4dr,9.0,-5,5.0,-22.0,51.0,48.0,30.0
+Nissan Rogue Sport 4dr 4WD,1.0,-4,0.0,-25.0,23.0,40.0,11.0
+Subaru Forester 4dr 4WD with EyeSight,-36.0,-38,-39.0,-4.0,-34.0,-31.0,-49.0
+Toyota C-HR 4dr,-1.0,-13,-2.0,-18.0,47.0,25.0,8.0
+Toyota Corolla Cross 4dr,,-23,1.0,-28.0,35.0,,
+Toyota Corolla Cross 4dr 4WD,,-14,-24.0,-27.0,28.0,,
+Toyota RAV4 4dr,-14.0,-21,-15.0,-28.0,24.0,13.0,-9.0
+Toyota RAV4 4dr 4WD,-13.0,-18,-12.0,-18.0,14.0,-3.0,-15.0
+Toyota RAV4 hybrid 4dr 4WD,-17.0,-12,-18.0,-11.0,-5.0,-16.0,-29.0
+Toyota RAV4 plug-in hybrid 4dr 4WD,-22.0,-11,-27.0,-7.0,-32.0,-45.0,-36.0
+Toyota Venza hybrid 4dr 4WD,6.0,10,-4.0,39.0,18.0,0.0,-11.0
+Volkswagen Taos 4dr,,-29,-6.0,-44.0,-6.0,,2.0
+Volkswagen Taos 4dr 2WD/4WD,,-25,-11.0,-47.0,,,
+Volkswagen Taos 4dr 4WD,,-32,-19.0,-44.0,-15.0,,
+Buick Enclave 4dr,-2.0,-3,11.0,-31.0,5.0,-15.0,7.0
+Buick Enclave 4dr 4WD,-9.0,-1,6.0,-29.0,-17.0,-15.0,-17.0
+Chevrolet Blazer 4dr,4.0,3,10.0,-29.0,14.0,23.0,14.0
+Chevrolet Blazer 4dr 4WD,-12.0,-6,-9.0,-24.0,-13.0,-7.0,-15.0
+Chevrolet Traverse 4dr,4.0,-3,14.0,-28.0,16.0,12.0,18.0
+Chevrolet Traverse 4dr 4WD,-9.0,-9,3.0,-17.0,-16.0,-13.0,-10.0
+Ford Bronco 2dr 4WD,,-43,3.0,-30.0,-60.0,,
+Ford Bronco 4dr 4WD,-21.0,-28,4.0,-16.0,-49.0,-51.0,-24.0
+Ford Edge 4dr 4WD,-22.0,-19,-23.0,-24.0,-16.0,-14.0,-28.0
+Ford Explorer 4dr,-12.0,-13,-13.0,-11.0,-10.0,-5.0,-12.0
+Ford Explorer 4dr 4WD,-19.0,-13,-21.0,1.0,-25.0,-25.0,-32.0
+Ford Explorer hybrid 4dr,,35,,,,,
+Ford Explorer hybrid 4dr 4WD,,9,-27.0,31.0,,,
+Ford Mustang Mach-E electric 4dr,,31,-36.0,19.0,-9.0,,
+Ford Mustang Mach-E electric 4dr 4WD,-2.0,34,-24.0,19.0,-15.0,-22.0,-34.0
+GMC Acadia 4dr,7.0,-4,19.0,-27.0,11.0,5.0,31.0
+GMC Acadia 4dr 4WD,-14.0,-12,-7.0,-25.0,-5.0,-14.0,-20.0
+Honda Passport 4dr,-24.0,-32,-22.0,-22.0,-8.0,-9.0,-24.0
+Honda Passport 4dr 4WD,-30.0,-29,-22.0,-17.0,-11.0,-34.0,-49.0
+Honda Pilot 4dr,-19.0,-27,-19.0,-18.0,-1.0,-4.0,-17.0
+Honda Pilot 4dr 4WD,-21.0,-24,-19.0,-7.0,-5.0,-25.0,-30.0
+Hyundai Palisade 4dr,-17.0,-7,-32.0,8.0,-5.0,-12.0,-38.0
+Hyundai Palisade 4dr 4WD,-16.0,2,-33.0,16.0,-16.0,-19.0,-43.0
+Hyundai Tucson plug-in hybrid 4dr 4WD,,-12,,,,,
+Jeep Cherokee 4dr,13.0,-18,40.0,-28.0,25.0,26.0,44.0
+Jeep Cherokee 4dr 4WD,-11.0,-31,14.0,-43.0,-10.0,-8.0,11.0
+Jeep Grand Cherokee 4dr,6.0,4,13.0,-26.0,0.0,17.0,23.0
+Jeep Grand Cherokee 4dr (NEW),,-40,,9.0,,,
+Jeep Grand Cherokee 4dr 4WD,-3.0,-6,9.0,-17.0,-10.0,-20.0,2.0
+Jeep Grand Cherokee 4dr 4WD (NEW),,-28,-21.0,-7.0,-33.0,,
+Jeep Grand Cherokee L 4dr,,-15,1.0,-6.0,-3.0,,
+Jeep Grand Cherokee L 4dr 4WD,-13.0,-16,-12.0,7.0,-7.0,-15.0,-23.0
+Jeep Wrangler 2dr 4WD,-13.0,-47,42.0,-48.0,-39.0,-40.0,15.0
+Jeep Wrangler 4dr 4WD,2.0,-33,58.0,-31.0,-26.0,-25.0,29.0
+Jeep Wrangler plug-in hybrid 4dr 4WD,-1.0,-30,56.0,-23.0,-35.0,-27.0,14.0
+Kia Sorento 4dr,7.0,12,-20.0,8.0,44.0,31.0,9.0
+Kia Sorento 4dr 4WD,-1.0,8,-13.0,-5.0,10.0,19.0,-5.0
+Kia Sorento hybrid 4dr,,-10,-19.0,2.0,,,
+Kia Sorento hybrid 4dr 4WD,,31,,,,,
+Kia Sorento plug-in hybrid 4dr 4WD,,20,-43.0,-33.0,,,
+Kia Telluride 4dr,-21.0,-13,-34.0,-5.0,-5.0,-18.0,-34.0
+Kia Telluride 4dr 4WD,-22.0,-8,-34.0,3.0,-24.0,-22.0,-43.0
+Mazda CX-9 4dr 4WD,-9.0,2,-8.0,4.0,-5.0,-18.0,-30.0
+Nissan Murano 4dr,-7.0,-10,-14.0,-8.0,7.0,3.0,-3.0
+Nissan Murano 4dr 4WD,-7.0,-6,-8.0,-16.0,13.0,5.0,-9.0
+Nissan Pathfinder 4dr,,-8,-30.0,0.0,9.0,,-16.0
+Nissan Pathfinder 4dr 4WD,-5.0,0,-15.0,6.0,11.0,-14.0,-13.0
+Subaru Ascent 4dr 4WD with EyeSight,-41.0,-38,-48.0,-19.0,-39.0,-36.0,-53.0
+Toyota 4Runner 4dr,-21.0,-23,-13.0,-21.0,-15.0,-27.0,-27.0
+Toyota 4Runner 4dr 4WD,-28.0,-32,-22.0,-5.0,-33.0,-35.0,-37.0
+Toyota Highlander 4dr,-13.0,-13,-24.0,-11.0,13.0,0.0,-14.0
+Toyota Highlander 4dr 4WD,-7.0,-3,-17.0,8.0,16.0,-11.0,-17.0
+Toyota Highlander hybrid 4dr,1.0,9,4.0,-4.0,7.0,-5.0,-9.0
+Toyota Highlander hybrid 4dr 4WD,1.0,9,-5.0,20.0,2.0,-12.0,-12.0
+Volkswagen Atlas 4dr,-20.0,-20,-21.0,-28.0,-19.0,-7.0,-15.0
+Volkswagen Atlas 4dr 4WD,-26.0,-19,-27.0,-11.0,-28.0,-30.0,-40.0
+Volkswagen Atlas Cross Sport 4dr,-19.0,-17,-15.0,-18.0,-16.0,-16.0,-26.0
+Volkswagen Atlas Cross Sport 4dr 4WD,-17.0,-9,-25.0,9.0,-24.0,-12.0,-34.0
+Volkswagen ID.4 electric 4dr,,14,11.0,-27.0,-6.0,,-26.0
+Volkswagen ID.4 electric 4dr 4WD,,-22,-47.0,,,,
+Volkswagen Tiguan 4dr,-19.0,-30,-16.0,-37.0,-8.0,16.0,-8.0
+Volkswagen Tiguan 4dr 4WD,-26.0,-27,-21.0,-30.0,-18.0,-20.0,-32.0
+Chevrolet Tahoe 4dr,-17.0,-15,0.0,-22.0,-31.0,-33.0,-25.0
+Chevrolet Tahoe 4dr 4WD,-16.0,-19,3.0,-20.0,-41.0,-41.0,-15.0
+Dodge Durango 4dr,22.0,12,25.0,-13.0,27.0,47.0,47.0
+Dodge Durango 4dr 4WD,16.0,15,18.0,8.0,16.0,3.0,24.0
+Dodge Durango SRT 4dr 4WD,,58,-14.0,648.0,,,
+Ford Expedition 4dr,-14.0,-7,-17.0,0.0,-35.0,-28.0,-21.0
+Ford Expedition 4dr 4WD,-11.0,-2,-3.0,14.0,-41.0,-32.0,-30.0
+GMC Yukon 4dr,,-18,1.0,-21.0,-44.0,,-10.0
+GMC Yukon 4dr 4WD,-15.0,-11,1.0,-8.0,-48.0,-47.0,-22.0
+Nissan Armada 4dr,-6.0,0,-14.0,4.0,15.0,-16.0,-18.0
+Nissan Armada 4dr 4WD,-5.0,17,-18.0,-1.0,-23.0,-16.0,-16.0
+Toyota Sequoia 4dr,,8,-1.0,24.0,,,
+Toyota Sequoia 4dr 4WD,-31.0,-35,-27.0,-12.0,-34.0,-49.0,-35.0
+Chevrolet Suburban 1500 4dr,,-10,13.0,-15.0,-4.0,,
+Chevrolet Suburban 1500 4dr 4WD,-1.0,-6,16.0,-13.0,-32.0,-34.0,11.0
+Ford Expedition Max 4dr,,-4,-10.0,4.0,-22.0,,-27.0
+Ford Expedition Max 4dr 4WD,-8.0,2,-6.0,16.0,-24.0,-31.0,-27.0
+GMC Yukon XL 1500 4dr,,-9,27.0,-11.0,,,
+GMC Yukon XL 1500 4dr 4WD,-6.0,-1,21.0,-3.0,-42.0,-34.0,-20.0
+Jeep Grand Wagoneer 4dr 4WD,,30,-2.0,6.0,,,
+Jeep Wagoneer 4dr,,14,44.0,,,,
+Jeep Wagoneer 4dr 4WD,,8,-1.0,-3.0,-17.0,,
+Ford Transit Connect cargo LWB,,-29,-22.0,0.0,13.0,,
+Ford Transit Connect cargo SWB,,-43,,1.0,,,
+Ford Transit Connect LWB,,-13,-13.0,-1.0,,,
+Ram ProMaster City,,-18,10.0,-33.0,,,
+Mercedes-Benz Metris,,-33,,,,,
+Mercedes-Benz Metris cargo,,-21,,-9.0,,,
+Ram ProMaster 1500,,-35,21.0,-34.0,,,
+Ford T-150 Transit cargo,,-14,,-45.0,,,
+Ford T-150 Transit cargo 4WD,,-44,,,,,
+Ford T-250 Transit cargo,,-13,22.0,-14.0,-27.0,,
+Ford T-250 Transit cargo 4WD,,-42,-27.0,-22.0,,,
+Ford T-350 Transit,,-6,-3.0,8.0,,,
+Ford T-350 Transit 4WD,,-45,,-6.0,,,
+Ford T-350 Transit cargo,,-14,2.0,-32.0,,,
+Ford T-350 Transit cargo 4WD,,-43,,-35.0,,,
+Mercedes-Benz Sprinter 2500,,-19,,90.0,,,
+Mercedes-Benz Sprinter 2500 cargo,,-9,1.0,60.0,-40.0,,
+Mercedes-Benz Sprinter 2500 cargo 4WD,,-37,-48.0,7.0,,,
+Mercedes-Benz Sprinter 3500 van cargo,,-4,,113.0,,,
+Ram ProMaster 2500,,-18,17.0,-9.0,,,
+Ram ProMaster 3500,,-22,4.0,-5.0,,,
+Mitsubishi Mirage,,44,43.0,41.0,128.0,,
+Chevrolet Spark,36.0,-6,52.0,-34.0,69.0,96.0,97.0
+Hyundai Accent,54.0,21,57.0,-19.0,91.0,103.0,114.0
+Kia Rio,74.0,32,82.0,-15.0,128.0,173.0,138.0
+Mini Cooper,,-24,-20.0,-22.0,-34.0,,
+Mitsubishi Mirage G4,,82,60.0,27.0,230.0,,
+Acura ILX,11.0,15,-2.0,-13.0,30.0,42.0,17.0
+Chevrolet Bolt electric,-32.0,-36,-13.0,-48.0,-27.0,-47.0,-33.0
+Chevrolet Bolt EUV electric 4dr,,-2,-28.0,-26.0,,,
+Honda Civic,29.0,36,20.0,-9.0,60.0,49.0,35.0
+Honda Civic hatchback,21.0,32,6.0,-5.0,40.0,39.0,27.0
+Honda Civic Si,,47,-13.0,21.0,,,
+Honda Insight hybrid,2.0,4,3.0,-16.0,27.0,15.0,0.0
+Hyundai Elantra,45.0,52,25.0,20.0,76.0,97.0,49.0
+Hyundai Elantra hybrid,,48,10.0,21.0,67.0,,
+Hyundai Elantra N 4dr,,124,,30.0,,,
+Hyundai Ioniq hybrid,22.0,25,6.0,31.0,39.0,66.0,14.0
+Hyundai Ioniq plug-in hybrid,,9,-5.0,-6.0,,,
+Kia Forte,46.0,27,36.0,23.0,78.0,117.0,72.0
+Mazda 3,4.0,4,18.0,-16.0,18.0,18.0,-1.0
+Mazda 3 4WD,,6,4.0,2.0,-8.0,,
+Mazda 3 hatchback,,-3,-13.0,-7.0,-8.0,,-15.0
+Mazda 3 hatchback 4WD,,8,-18.0,-5.0,-15.0,,-47.0
+Nissan Kicks,16.0,11,3.0,-20.0,60.0,74.0,30.0
+Nissan Leaf electric,-5.0,3,4.0,-27.0,-6.0,-24.0,-6.0
+Nissan Sentra,45.0,40,28.0,-3.0,75.0,118.0,71.0
+Nissan Versa,51.0,29,38.0,-5.0,107.0,136.0,89.0
+Subaru Impreza 4WD,,-18,,,,,
+Subaru Impreza 4WD with EyeSight,-10.0,-21,-3.0,-13.0,-11.0,18.0,-4.0
+Subaru WRX 4WD,8.0,17,4.0,-5.0,-4.0,-5.0,15.0
+Subaru WRX 4WD with EyeSight,,16,-15.0,-14.0,,,
+Toyota Corolla,19.0,6,12.0,-10.0,69.0,61.0,38.0
+Toyota Corolla hatchback,-1.0,-5,-2.0,-3.0,4.0,8.0,2.0
+Toyota Corolla hybrid,25.0,25,11.0,-2.0,48.0,58.0,37.0
+Toyota Prius hybrid,5.0,12,-4.0,1.0,1.0,31.0,4.0
+Toyota Prius hybrid 4WD,-1.0,4,-12.0,2.0,5.0,8.0,-5.0
+Toyota Prius Prime plug-in hybrid,0.0,16,-20.0,17.0,-6.0,3.0,-11.0
+Volkswagen GTI,-12.0,3,-24.0,-12.0,-7.0,-22.0,-21.0
+Chevrolet Malibu,64.0,42,54.0,0.0,92.0,109.0,122.0
+Honda Accord,20.0,17,3.0,19.0,73.0,54.0,16.0
+Honda Accord hybrid,0.0,7,-10.0,1.0,19.0,23.0,-11.0
+Hyundai Sonata,27.0,45,4.0,14.0,48.0,66.0,18.0
+Hyundai Sonata hybrid,27.0,43,11.0,39.0,19.0,46.0,14.0
+Kia K5 2WD/4WD,42.0,54,12.0,28.0,61.0,97.0,45.0
+Nissan Altima,52.0,45,31.0,20.0,101.0,106.0,72.0
+Nissan Altima 4WD,28.0,30,12.0,20.0,42.0,65.0,31.0
+Nissan Maxima,35.0,49,1.0,49.0,67.0,51.0,24.0
+Subaru Legacy 4WD with EyeSight,-23.0,-25,-33.0,3.0,-28.0,-8.0,-27.0
+Toyota Camry,17.0,19,-7.0,10.0,65.0,54.0,17.0
+Toyota Camry 4WD,17.0,23,3.0,17.0,55.0,29.0,10.0
+Toyota Camry hybrid,23.0,36,5.0,12.0,39.0,48.0,19.0
+Toyota Mirai fuel cell,,52,-7.0,,,,
+Volkswagen Jetta,14.0,9,16.0,-19.0,28.0,35.0,31.0
+Volkswagen Passat,-1.0,1,-10.0,-6.0,16.0,28.0,-2.0
+Chrysler 300,51.0,37,39.0,10.0,73.0,115.0,83.0
+Chrysler 300 4WD,,29,45.0,-6.0,,,
+Chrysler 300 HEMI,,68,31.0,55.0,,,
+Dodge Charger,109.0,100,108.0,38.0,105.0,132.0,160.0
+Dodge Charger 4WD,,67,71.0,-1.0,37.0,,
+Dodge Charger HEMI,181.0,227,98.0,319.0,89.0,127.0,148.0
+Dodge Charger SRT Hellcat,,406,131.0,1403.0,,,
+Kia Stinger 2WD/4WD,36.0,67,9.0,39.0,36.0,35.0,21.0
+Toyota Avalon,-3.0,12,-31.0,15.0,5.0,1.0,-12.0
+Toyota Avalon hybrid,2.0,21,-22.0,22.0,7.0,-9.0,-14.0
+Volkswagen Arteon,,42,-6.0,36.0,,,
+Volkswagen Arteon 4WD,,18,-27.0,44.0,,,
+Kia Rio,,-5,41.0,-29.0,47.0,,
+Kia Soul,8.0,-17,15.0,-22.0,41.0,55.0,34.0
+Mini Clubman,,-5,0.0,,,,
+Mini Clubman 4WD,,-6,-28.0,9.0,,,
+Mini Countryman,,-14,-14.0,-21.0,-47.0,,
+Mini Countryman 4WD,,-17,-30.0,-5.0,-42.0,,
+Subaru Crosstrek 4WD,,-46,-23.0,-25.0,-35.0,,-28.0
+Subaru Crosstrek 4WD with EyeSight,-36.0,-42,-31.0,-26.0,-32.0,-27.0,-42.0
+Subaru Crosstrek plug-in hybrid 4WD with EyeSight,,-39,-42.0,-45.0,,,
+Subaru Impreza 4WD,,-22,-6.0,-24.0,,,
+Subaru Impreza 4WD with EyeSight,-25.0,-28,-20.0,-16.0,-25.0,-11.0,-32.0
+Subaru Outback 4WD with EyeSight,-36.0,-40,-39.0,-6.0,-35.0,-33.0,-48.0
+Volvo V60 Cross Country 4WD,,-29,-52.0,-10.0,-33.0,,
+Audi Q3 4dr 4WD,-16.0,-1,-18.0,-5.0,-29.0,-39.0,-34.0
+BMW X1 4dr,,-7,-21.0,-1.0,-20.0,,-26.0
+BMW X1 4dr 4WD,-14.0,-12,-28.0,16.0,-22.0,-18.0,-20.0
+BMW X2 4dr,,18,6.0,19.0,,,
+BMW X2 4dr 4WD,,4,-19.0,17.0,-21.0,,
+Buick Encore 4dr,2.0,-21,18.0,-50.0,12.0,32.0,40.0
+Buick Encore 4dr 4WD,-2.0,-21,19.0,-48.0,-5.0,9.0,29.0
+Buick Encore GX 4dr,-9.0,-20,-11.0,-39.0,22.0,42.0,4.0
+Buick Encore GX 4dr 4WD,-22.0,-26,-17.0,-38.0,-11.0,5.0,-18.0
+Cadillac XT4 4dr,-15.0,-13,-23.0,-27.0,0.0,2.0,-10.0
+Cadillac XT4 4dr 4WD,-28.0,-26,-32.0,-30.0,-20.0,-32.0,-26.0
+Land Rover Range Rover Evoque 4dr 4WD,-2.0,13,-7.0,6.0,-15.0,-7.0,-18.0
+Lexus UX 200 4dr,,-9,-9.0,-32.0,-25.0,,
+Lexus UX 250 hybrid 4dr 4WD,-1.0,0,-8.0,5.0,-1.0,7.0,-1.0
+Lincoln Corsair 4dr,-14.0,-12,-18.0,-21.0,-3.0,-4.0,-13.0
+Lincoln Corsair 4dr 4WD,-12.0,-9,-15.0,-23.0,-7.0,-11.0,-8.0
+Lincoln Corsair plug-in hybrid 4dr 4WD,,6,,,,,
+Mercedes-Benz AMG GLB 4dr 4WD,,79,,61.0,,,
+Mercedes-Benz GLA class 4dr,,7,-8.0,-17.0,26.0,,
+Mercedes-Benz GLA class 4dr 4WD,,15,-13.0,-11.0,10.0,,-41.0
+Mercedes-Benz GLA class AMG 4dr 4WD,,29,,72.0,,,
+Mercedes-Benz GLB class 4dr,-6.0,10,-30.0,4.0,3.0,4.0,-16.0
+Mercedes-Benz GLB class 4dr 4WD,-2.0,14,-21.0,26.0,8.0,5.0,-25.0
+Volvo C40 electric 4dr 4WD,,10,,,,,
+Volvo XC40 4dr,,-29,-42.0,-23.0,-30.0,,
+Volvo XC40 4dr 4WD,-38.0,-33,-40.0,-18.0,-41.0,-51.0,-52.0
+Volvo XC40 electric 4dr 4WD,,0,-7.0,-25.0,,,
+Acura MDX 4dr,,-12,-46.0,-22.0,-25.0,,
+Acura MDX 4dr 4WD,-20.0,-7,-35.0,15.0,-3.0,-36.0,-47.0
+Acura RDX 4dr,-38.0,-35,-36.0,-39.0,-30.0,-22.0,-48.0
+Acura RDX 4dr 4WD,-36.0,-36,-33.0,-25.0,-22.0,-38.0,-50.0
+Alfa Romeo Stelvio 4dr,,17,17.0,19.0,,,
+Alfa Romeo Stelvio 4dr 4WD,,42,0.0,42.0,-8.0,,
+Audi Q5 4dr 4WD,-15.0,16,-35.0,24.0,-37.0,-34.0,-48.0
+Audi Q5 plug-in hybrid 4dr 4WD,,36,-22.0,45.0,-51.0,,-59.0
+Audi Q5 sportback 4dr 4WD,,35,-12.0,50.0,,,
+Audi SQ5 4dr 4WD,1.0,49,-30.0,66.0,-42.0,-40.0,-49.0
+Audi SQ5 sportback 4dr 4WD,,80,,,,,
+BMW X3 4dr,-10.0,2,-12.0,-3.0,-33.0,-11.0,-21.0
+BMW X3 4dr 4WD,-14.0,1,-24.0,26.0,-35.0,-40.0,-35.0
+BMW X3 M 4dr 4WD,,144,0.0,112.0,-16.0,,
+BMW X3 plug-in hybrid 4dr 4WD,,0,-39.0,9.0,-45.0,,
+BMW X4 4dr 4WD,20.0,47,-7.0,56.0,10.0,4.0,-8.0
+BMW X4 M 4dr 4WD,,212,11.0,135.0,,,
+BMW X5 4dr,5.0,23,-11.0,62.0,-37.0,-10.0,-22.0
+BMW X5 4dr 4WD,3.0,21,-16.0,101.0,-42.0,-45.0,-38.0
+BMW X5 M 4dr 4WD,,199,-4.0,398.0,,,
+BMW X5 plug-in hybrid 4dr 4WD,4.0,22,-25.0,92.0,-50.0,-47.0,-21.0
+BMW X6 4dr,,135,34.0,115.0,,,
+BMW X6 4dr 4WD,,138,13.0,161.0,8.0,,
+BMW X6 M 4dr 4WD,,318,36.0,508.0,,,
+Buick Envision 4dr,-13.0,-13,-10.0,-40.0,-6.0,15.0,-7.0
+Buick Envision 4dr 4WD,-18.0,-18,-17.0,-35.0,-21.0,0.0,-13.0
+Cadillac XT5 4dr,-15.0,-17,-12.0,-27.0,-9.0,0.0,-11.0
+Cadillac XT5 4dr 4WD,-17.0,-10,-20.0,-22.0,-11.0,-21.0,-24.0
+Cadillac XT6 4dr,-9.0,2,-12.0,2.0,0.0,12.0,-33.0
+Cadillac XT6 4dr 4WD,-8.0,7,-18.0,0.0,-3.0,-8.0,-24.0
+Genesis GV70 4dr 4WD,,70,-29.0,38.0,-5.0,,
+Genesis GV80 4dr,,6,-9.0,65.0,,,
+Genesis GV80 4dr 4WD,3.0,25,-24.0,71.0,-24.0,-7.0,-30.0
+Infiniti QX50 4dr,-3.0,12,-17.0,4.0,-9.0,1.0,-14.0
+Infiniti QX50 4dr 4WD,-2.0,22,-19.0,19.0,5.0,-11.0,-30.0
+Infiniti QX55 4dr 4WD,,96,-6.0,25.0,,,
+Infiniti QX60 4dr,,46,,,,,
+Infiniti QX60 4dr 4WD,,-5,-44.0,-3.0,,,
+Jaguar E-Pace 4dr 4WD,,9,-15.0,13.0,-9.0,,
+Jaguar F-Pace 4dr 4WD,13.0,44,-8.0,56.0,-21.0,-6.0,-19.0
+Jaguar I-Pace electric 4dr 4WD,,116,18.0,61.0,,,
+Land Rover Defender 110 4dr 4WD,17.0,36,10.0,125.0,-56.0,-49.0,-29.0
+Land Rover Defender 90 2dr 4WD,,9,,101.0,,,
+Land Rover Discovery Sport 4dr 4WD,,4,-7.0,13.0,-32.0,,-28.0
+Land Rover Range Rover Velar 4dr 4WD,34.0,75,5.0,72.0,-1.0,16.0,-4.0
+Lexus NX 250 4dr,,-5,,,,,
+Lexus NX 350 4dr 4WD,,4,-46.0,-26.0,-6.0,,
+Lexus NX 350 hybrid 4dr 4WD,,6,-38.0,-14.0,,,
+Lexus NX 450 plug-in hybrid 4dr 4WD,,13,,,,,
+Lexus RX 350 4dr,-14.0,-4,-26.0,-8.0,-20.0,11.0,-22.0
+Lexus RX 350 4dr 4WD,-15.0,5,-27.0,2.0,-11.0,-23.0,-37.0
+Lexus RX 350 4dr LWB,,2,-41.0,15.0,-22.0,,
+Lexus RX 350 4dr LWB 4WD,,-6,-24.0,15.0,-10.0,,
+Lexus RX 450 hybrid 4dr LWB 4WD,,15,-23.0,22.0,,,
+Lexus RX 450h hybrid 4dr 4WD,-10.0,13,-28.0,17.0,-27.0,-25.0,-33.0
+Lincoln Aviator 4dr,,-2,-31.0,20.0,-30.0,,
+Lincoln Aviator 4dr 4WD,-16.0,2,-23.0,20.0,-35.0,-37.0,-44.0
+Lincoln Aviator plug-in hybrid 4dr 4WD,,-8,-42.0,48.0,,,
+Lincoln Nautilus 4dr,-20.0,-16,-22.0,-9.0,-29.0,-25.0,-27.0
+Lincoln Nautilus 4dr 4WD,-18.0,-9,-26.0,-24.0,-30.0,-14.0,-15.0
+Maserati Levante 4dr 4WD,,155,45.0,152.0,-9.0,,
+Mercedes-Benz GLC class 4dr,-14.0,-7,-18.0,-19.0,-18.0,-7.0,-16.0
+Mercedes-Benz GLC class 4dr 4WD,-20.0,-9,-25.0,0.0,-15.0,-29.0,-38.0
+Mercedes-Benz GLC class AMG 4dr 4WD,,42,-22.0,88.0,,,
+Mercedes-Benz GLC class coupe 4dr 4WD,,37,-16.0,9.0,17.0,,
+Mercedes-Benz GLC class coupe AMG 4dr 4WD,,111,17.0,101.0,,,
+Mercedes-Benz GLE class 4dr,-2.0,18,-18.0,22.0,-28.0,-17.0,-19.0
+Mercedes-Benz GLE class 4dr 4WD,-10.0,8,-26.0,36.0,-36.0,-31.0,-36.0
+Mercedes-Benz GLE class AMG 4dr 4WD,,85,-14.0,108.0,,,
+Mercedes-Benz GLE class coupe 4dr 4WD,,191,23.0,151.0,1.0,,
+Porsche Macan 4dr 4WD,10.0,47,-2.0,40.0,-41.0,-35.0,-22.0
+Tesla Model Y electric 4dr,,65,-7.0,24.0,-8.0,,
+Tesla Model Y electric 4dr 4WD,13.0,69,-15.0,28.0,-15.0,-12.0,-29.0
+Volvo XC60 4dr,-32.0,-25,-39.0,1.0,-44.0,-20.0,-54.0
+Volvo XC60 4dr 4WD,-35.0,-26,-39.0,-3.0,-51.0,-41.0,-53.0
+Volvo XC60 plug-in hybrid 4dr 4WD,,-5,-40.0,20.0,-49.0,,
+Volvo XC90 4dr,,-22,-24.0,6.0,-52.0,,
+Volvo XC90 4dr 4WD,-21.0,-10,-29.0,35.0,-43.0,-51.0,-48.0
+Volvo XC90 plug-in hybrid 4dr 4WD,-20.0,2,-30.0,43.0,-50.0,-55.0,-59.0
+Aston Martin DBX 4dr 4WD,,271,,567.0,,,
+Audi e-tron electric 4dr 4WD,,90,-12.0,32.0,-39.0,,
+Audi e-tron electric 4dr sportback 4WD,,87,2.0,87.0,,,
+Audi Q7 4dr 4WD,-5.0,28,-27.0,41.0,-43.0,-38.0,-38.0
+Audi Q8 4dr 4WD,30.0,81,1.0,93.0,-31.0,-36.0,-15.0
+Audi RSQ8 4dr 4WD,,179,-12.0,298.0,,,
+Audi SQ7 4dr 4WD,,90,-5.0,161.0,,,
+Audi SQ8 4dr 4WD,,90,-16.0,126.0,,,
+Bentley Bentayga 4dr 4WD,,269,,1101.0,,,
+BMW X7 4dr 4WD,19.0,41,-18.0,160.0,-38.0,-29.0,-33.0
+Cadillac Escalade 4dr,,24,-24.0,73.0,-16.0,,
+Cadillac Escalade 4dr 4WD,12.0,27,4.0,37.0,-24.0,-31.0,3.0
+Infiniti QX80 4dr,,14,-18.0,47.0,-43.0,,
+Infiniti QX80 4dr 4WD,,9,-17.0,63.0,-48.0,,
+Lamborghini Urus 4dr 4WD,,396,40.0,745.0,,,
+Land Rover Discovery 4dr 4WD,,21,-24.0,64.0,-57.0,,
+Land Rover Range Rover 4dr 4WD,43.0,54,2.0,239.0,-50.0,-39.0,-8.0
+Land Rover Range Rover 4dr LWB 4WD,,80,18.0,353.0,,,
+Land Rover Range Rover Sport 4dr 4WD,30.0,54,5.0,167.0,-40.0,-34.0,-26.0
+Land Rover Range Rover Sport plug-in hybrid 4dr 4WD,,5,,84.0,,,
+Lexus GX 460 4dr 4WD,-7.0,5,-13.0,17.0,-23.0,-19.0,-24.0
+Mercedes-Benz G class 4dr 4WD,,44,11.0,367.0,-59.0,,
+Mercedes-Benz G class AMG 4dr 4WD,,97,-8.0,363.0,-63.0,,
+Mercedes-Benz GLS class 4dr 4WD,8.0,43,-14.0,89.0,-39.0,-40.0,-42.0
+Mercedes-Benz GLS class AMG 4dr 4WD,,40,,73.0,,,
+Porsche Cayenne 4dr 4WD,10.0,45,-12.0,87.0,-53.0,-43.0,-32.0
+Porsche Cayenne Coupe 4dr 4WD,,83,-25.0,136.0,-37.0,,
+Porsche Cayenne Coupe hybrid 4dr 4WD,,93,,,,,
+Porsche Cayenne hybrid 4dr 4WD,,80,-4.0,106.0,,,
+Tesla Model X 4dr electric 4WD,46.0,134,21.0,40.0,-30.0,-19.0,-9.0
+Cadillac Escalade ESV 4dr,,45,-3.0,45.0,,,
+Cadillac Escalade ESV 4dr 4WD,,49,58.0,37.0,-32.0,,
+Lincoln Navigator 4dr,,9,0.0,25.0,,,
+Lincoln Navigator 4dr 4WD,,13,-2.0,63.0,-45.0,,
+Lincoln Navigator L 4dr,,-9,,44.0,,,
+Lincoln Navigator L 4dr 4WD,,17,11.0,58.0,-35.0,,
+Rolls Royce Cullinan 4dr 4WD,,488,,641.0,,,

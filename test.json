@@ -1,0 +1,378 @@
+{
+	"Info": [
+		{
+			"Vehicle": "Honda Accord hybrid",
+			"OverallDeathRate": 45,
+			"Lcl": 1,
+			"Ucl": 90,
+			"OtherDriverDeathRate": 54,
+			"OdLcl": 4,
+			"OdUcl": 104,
+			"MultiVehicleDeathRate": null,
+			"SingleVehicleDeathRate": null,
+			"RolloverDeathRate": null,
+			"ModelYearSpan": "2018-20",
+			"RegistrationYears": 112221
+		},
+		{
+			"Vehicle": "Toyota Camry",
+			"OverallDeathRate": 48,
+			"Lcl": 38,
+			"Ucl": 59,
+			"OtherDriverDeathRate": 50,
+			"OdLcl": 40,
+			"OdUcl": 61,
+			"MultiVehicleDeathRate": null,
+			"SingleVehicleDeathRate": null,
+			"RolloverDeathRate": null,
+			"ModelYearSpan": "2018-20",
+			"RegistrationYears": 2014523
+		},
+		{
+			"Vehicle": "Ford Fusion hybrid",
+			"OverallDeathRate": 25,
+			"Lcl": 0,
+			"Ucl": 56,
+			"OtherDriverDeathRate": 54,
+			"OdLcl": 12,
+			"OdUcl": 97,
+			"MultiVehicleDeathRate": null,
+			"SingleVehicleDeathRate": null,
+			"RolloverDeathRate": null,
+			"ModelYearSpan": "2019-20",
+			"RegistrationYears": 143192
+		},
+		{
+			"Vehicle": "Kia Optima",
+			"OverallDeathRate": 80,
+			"Lcl": 45,
+			"Ucl": 115,
+			"OtherDriverDeathRate": 134,
+			"OdLcl": 86,
+			"OdUcl": 182,
+			"MultiVehicleDeathRate": null,
+			"SingleVehicleDeathRate": null,
+			"RolloverDeathRate": null,
+			"ModelYearSpan": "2019-20",
+			"RegistrationYears": 263774
+		},
+		{
+			"Vehicle": "Chevrolet Malibu",
+			"OverallDeathRate": 91,
+			"Lcl": 73,
+			"Ucl": 108,
+			"OtherDriverDeathRate": 66,
+			"OdLcl": 52,
+			"OdUcl": 80,
+			"MultiVehicleDeathRate": null,
+			"SingleVehicleDeathRate": null,
+			"RolloverDeathRate": null,
+			"ModelYearSpan": "2017-20",
+			"RegistrationYears": 1476351
+		},
+		{
+			"Vehicle": "Toyota Camry hybrid",
+			"OverallDeathRate": 19,
+			"Lcl": 0,
+			"Ucl": 38,
+			"OtherDriverDeathRate": 66,
+			"OdLcl": 22,
+			"OdUcl": 109,
+			"MultiVehicleDeathRate": null,
+			"SingleVehicleDeathRate": null,
+			"RolloverDeathRate": null,
+			"ModelYearSpan": "2018-20",
+			"RegistrationYears": 165546
+		},
+		{
+			"Vehicle": "Ford Fusion",
+			"OverallDeathRate": 67,
+			"Lcl": 30,
+			"Ucl": 104,
+			"OtherDriverDeathRate": 28,
+			"OdLcl": 6,
+			"OdUcl": 49,
+			"MultiVehicleDeathRate": null,
+			"SingleVehicleDeathRate": null,
+			"RolloverDeathRate": null,
+			"ModelYearSpan": "2019-20",
+			"RegistrationYears": 257689
+		},
+		{
+			"Vehicle": "Nissan Altima",
+			"OverallDeathRate": 113,
+			"Lcl": 75,
+			"Ucl": 151,
+			"OtherDriverDeathRate": 94,
+			"OdLcl": 62,
+			"OdUcl": 126,
+			"MultiVehicleDeathRate": null,
+			"SingleVehicleDeathRate": null,
+			"RolloverDeathRate": null,
+			"ModelYearSpan": "2019-20",
+			"RegistrationYears": 451700
+		},
+		{
+			"Vehicle": "Volkswagen Jetta",
+			"OverallDeathRate": 47,
+			"Lcl": 24,
+			"Ucl": 69,
+			"OtherDriverDeathRate": 45,
+			"OdLcl": 24,
+			"OdUcl": 66,
+			"MultiVehicleDeathRate": null,
+			"SingleVehicleDeathRate": null,
+			"RolloverDeathRate": null,
+			"ModelYearSpan": "2019-20",
+			"RegistrationYears": 410900
+		},
+		{
+			"Vehicle": "Honda Accord",
+			"OverallDeathRate": 46,
+			"Lcl": 34,
+			"Ucl": 57,
+			"OtherDriverDeathRate": 44,
+			"OdLcl": 32,
+			"OdUcl": 55,
+			"MultiVehicleDeathRate": null,
+			"SingleVehicleDeathRate": null,
+			"RolloverDeathRate": null,
+			"ModelYearSpan": "2018-20",
+			"RegistrationYears": 1546159
+		}
+	],
+	"Total": {
+		"Vehicle": "All 2020 vehicles",
+		"OverallDeathRate": 38,
+		"Lcl": 37,
+		"Ucl": 40,
+		"OtherDriverDeathRate": 53,
+		"OdLcl": 51,
+		"OdUcl": 54,
+		"MultiVehicleDeathRate": null,
+		"SingleVehicleDeathRate": null,
+		"RolloverDeathRate": null,
+		"ModelYearSpan": "2017-20",
+		"RegistrationYears": 73747968
+	},
+	"Subtotal": {
+		"Vehicle": "All 2020 midsize cars",
+		"OverallDeathRate": 60,
+		"Lcl": 54,
+		"Ucl": 67,
+		"OtherDriverDeathRate": 57,
+		"OdLcl": 51,
+		"OdUcl": 63,
+		"MultiVehicleDeathRate": null,
+		"SingleVehicleDeathRate": null,
+		"RolloverDeathRate": null,
+		"ModelYearSpan": "2017-20",
+		"RegistrationYears": 7311261
+	},
+	"RequestParams": {
+		"DriverDeathRate": "dfd6b041-bd92-4b53-b87d-9cd069e45ad0",
+		"VehicleStyleId": "5c08fbab-d158-490a-8586-d6794d28e270",
+		"VehicleSizeId": "a76114a4-69c9-4f57-90cb-4a435d71d7fc",
+		"SortColumn": "overallDeathRate"
+	},
+	"Years": [
+		{
+			"Id": "00000000-0000-0000-0000-000000000000",
+			"Visible": true,
+			"Published": true,
+			"Disabled": false,
+			"Group": null,
+			"Selected": true,
+			"Text": "2020",
+			"Value": "dfd6b041-bd92-4b53-b87d-9cd069e45ad0"
+		},
+		{
+			"Id": "00000000-0000-0000-0000-000000000000",
+			"Visible": true,
+			"Published": true,
+			"Disabled": false,
+			"Group": null,
+			"Selected": false,
+			"Text": "2017",
+			"Value": "414ad86c-4c36-4cee-8b2f-0ef0e6d02b96"
+		},
+		{
+			"Id": "00000000-0000-0000-0000-000000000000",
+			"Visible": true,
+			"Published": true,
+			"Disabled": false,
+			"Group": null,
+			"Selected": false,
+			"Text": "2014",
+			"Value": "34d24024-a4ca-4c3b-898d-9dee3beabcb2"
+		},
+		{
+			"Id": "00000000-0000-0000-0000-000000000000",
+			"Visible": true,
+			"Published": true,
+			"Disabled": false,
+			"Group": null,
+			"Selected": false,
+			"Text": "2011",
+			"Value": "6b9565ce-bea3-4577-a91b-2d8408dfc6e3"
+		},
+		{
+			"Id": "00000000-0000-0000-0000-000000000000",
+			"Visible": true,
+			"Published": true,
+			"Disabled": false,
+			"Group": null,
+			"Selected": false,
+			"Text": "2008",
+			"Value": "71fb8742-0604-42a6-a0fe-0bb720d67cca"
+		},
+		{
+			"Id": "00000000-0000-0000-0000-000000000000",
+			"Visible": true,
+			"Published": true,
+			"Disabled": false,
+			"Group": null,
+			"Selected": false,
+			"Text": "2004",
+			"Value": "d1ac2ced-0561-42e1-99a1-27e3c808ddfc"
+		},
+		{
+			"Id": "00000000-0000-0000-0000-000000000000",
+			"Visible": true,
+			"Published": true,
+			"Disabled": false,
+			"Group": null,
+			"Selected": false,
+			"Text": "2002",
+			"Value": "4990c875-9391-4b11-97d0-ea4d207a498b"
+		}
+	],
+	"Styles": [
+		{
+			"Id": "5c08fbab-d158-490a-8586-d6794d28e270",
+			"Visible": true,
+			"Published": false,
+			"Disabled": false,
+			"Group": null,
+			"Selected": true,
+			"Text": "cars",
+			"Value": "5c08fbab-d158-490a-8586-d6794d28e270"
+		},
+		{
+			"Id": "f454c0ed-f814-48f0-9a47-e7854cca8fb0",
+			"Visible": true,
+			"Published": false,
+			"Disabled": false,
+			"Group": null,
+			"Selected": false,
+			"Text": "luxury cars",
+			"Value": "f454c0ed-f814-48f0-9a47-e7854cca8fb0"
+		},
+		{
+			"Id": "e648eed2-2b2e-482e-82ab-4fe620357a01",
+			"Visible": true,
+			"Published": false,
+			"Disabled": false,
+			"Group": null,
+			"Selected": false,
+			"Text": "sports cars",
+			"Value": "e648eed2-2b2e-482e-82ab-4fe620357a01"
+		},
+		{
+			"Id": "8459da7c-566f-4dd6-8192-f404c41f8283",
+			"Visible": true,
+			"Published": false,
+			"Disabled": false,
+			"Group": null,
+			"Selected": false,
+			"Text": "station wagons/minivans",
+			"Value": "8459da7c-566f-4dd6-8192-f404c41f8283"
+		},
+		{
+			"Id": "8976d584-652e-4494-ae90-274b65f2fdf7",
+			"Visible": true,
+			"Published": false,
+			"Disabled": true,
+			"Group": null,
+			"Selected": false,
+			"Text": "pickups",
+			"Value": "8976d584-652e-4494-ae90-274b65f2fdf7"
+		},
+		{
+			"Id": "a279e29b-f9da-47b9-bd45-be2059d85546",
+			"Visible": true,
+			"Published": false,
+			"Disabled": false,
+			"Group": null,
+			"Selected": false,
+			"Text": "SUVs",
+			"Value": "a279e29b-f9da-47b9-bd45-be2059d85546"
+		},
+		{
+			"Id": "fac5ce9b-9b4e-4910-9631-917b107ca5b8",
+			"Visible": true,
+			"Published": false,
+			"Disabled": false,
+			"Group": null,
+			"Selected": false,
+			"Text": "luxury SUVs",
+			"Value": "fac5ce9b-9b4e-4910-9631-917b107ca5b8"
+		}
+	],
+	"Sizes": [
+		{
+			"Id": "f9e250da-83db-427d-a82f-2d51bcb7c5dd",
+			"Visible": true,
+			"Published": false,
+			"Disabled": false,
+			"Group": null,
+			"Selected": false,
+			"Text": "mini",
+			"Value": "f9e250da-83db-427d-a82f-2d51bcb7c5dd"
+		},
+		{
+			"Id": "3bec1f1e-1878-41a7-afa7-311fb51c7533",
+			"Visible": true,
+			"Published": false,
+			"Disabled": false,
+			"Group": null,
+			"Selected": false,
+			"Text": "small",
+			"Value": "3bec1f1e-1878-41a7-afa7-311fb51c7533"
+		},
+		{
+			"Id": "a76114a4-69c9-4f57-90cb-4a435d71d7fc",
+			"Visible": true,
+			"Published": false,
+			"Disabled": false,
+			"Group": null,
+			"Selected": true,
+			"Text": "midsize",
+			"Value": "a76114a4-69c9-4f57-90cb-4a435d71d7fc"
+		},
+		{
+			"Id": "43d5cf6c-1c26-4699-8671-521d0a8a69fa",
+			"Visible": true,
+			"Published": false,
+			"Disabled": false,
+			"Group": null,
+			"Selected": false,
+			"Text": "large",
+			"Value": "43d5cf6c-1c26-4699-8671-521d0a8a69fa"
+		},
+		{
+			"Id": "0a36327c-14bd-4bcc-913c-c20d8160ceb9",
+			"Visible": true,
+			"Published": false,
+			"Disabled": true,
+			"Group": null,
+			"Selected": false,
+			"Text": "very large",
+			"Value": "0a36327c-14bd-4bcc-913c-c20d8160ceb9"
+		}
+	],
+	"YearInfo": "<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n  <head />\r\n  <body />\r\n</html>",
+	"SelectedYearText": "2020",
+	"SelectedStyleText": "cars",
+	"SelectedSizeText": "midsize"
+}

@@ -1,0 +1,107 @@
+async function populate_makes() {
+	document.getElementById('select-make').innerHTML = '';
+	const makes = await (await fetch('/makes')).json();
+	makes.forEach(make => {
+		const option = document.createElement('option');
+		option.value = make;
+		option.text = make;
+		document.getElementById('select-make').appendChild(option);
+	});
+	select_make_handler();
+}
+
+async function main() {
+	document.getElementById('select-make').onchange = select_make_handler;
+	document.getElementById('select-model').onchange = select_model_handler;
+	document.getElementById('select-option').onchange = select_option_handler;
+	populate_makes();
+}
+
+async function select_make_handler(event) {
+	document.getElementById('select-model').innerHTML = '';
+	const make = document.getElementById('select-make').value;
+	const models = await (await fetch(`/makes/${make}/models`)).json();
+	models.forEach(model => {
+		const option = document.createElement('option');
+		option.value = model;
+		option.text = model;
+		document.getElementById('select-model').appendChild(option);
+	});
+	select_model_handler();
+}
+
+async function select_model_handler(event) {
+	document.getElementById('select-option').innerHTML = '';
+	const make = document.getElementById('select-make').value;
+	const model = document.getElementById('select-model').value;
+	const options = await (await fetch(`/makes/${make}/models/${model}/options`)).json();
+	for (const [id, str] of Object.entries(options)) {
+		const option = document.createElement('option');
+		option.value = id;
+		option.text = str;
+		document.getElementById('select-option').appendChild(option);
+	};
+	select_option_handler();
+	alternatives_handler();
+}
+
+async function select_option_handler(event) {
+	document.getElementById('display-type').innerHTML = '';
+	const make = document.getElementById('select-make').value;
+	const model = document.getElementById('select-model').value;
+	const option = document.getElementById('select-option').value;
+
+	update_selection(1, make, model);
+	update_fuel(1, option);
+	await update_pricing(1, make, model);
+	update_death(1, make, model);
+	update_insurance(1, make, model);
+}
+
+async function update_insurance(num, make, model) {
+	document.getElementById(`insurance-${num}`).innerText = 'fetching from IIHS.org ...';
+	const insurance = await (await fetch(`/makes/${make}/models/${model}/insurance`)).json();
+	document.getElementById(`insurance-${num}`).innerText = insurance.insurance;
+}
+
+async function update_selection(num, make, model) {
+	document.getElementById(`selection-${num}`).innerText = `${make} ${model}`;
+}
+
+async function update_fuel(num, option) {
+	document.getElementById(`fuel-${num}`).innerText = 'fetching from FuelEconomy.gov ...';
+	document.getElementById(`fuel-cost-${num}`).innerText = 'waiting ...';
+	const fuel = await (await fetch(`/fuel/${option}`)).json()
+	document.getElementById(`fuel-${num}`).innerText = `${fuel.combined} ${fuel.city} ${fuel.highway}`;
+	document.getElementById(`fuel-cost-${num}`).innerText = fuel.cost;
+	if (num == 1) document.getElementById('display-type').innerText = fuel.type;
+}
+
+async function update_pricing(num, make, model) {
+	document.getElementById(`msrp-${num}`).innerText = 'fetching from CarAndDriver.com (slow) ...';
+	const pricing = await (await fetch(`/makes/${make}/models/${model}/pricing`)).json();
+	if (!pricing.high) pricing.high = '';
+	document.getElementById(`msrp-${num}`).innerText = `${pricing.low}-${pricing.high}`;
+	document.getElementById(`lease-${num}`).innerText = 0.01083 * pricing.low;
+}
+
+async function update_death(num, make, model) {
+	document.getElementById(`death-${num}`).innerText = 'fetching from IIHS.org ...';
+	const deaths = await (await fetch(`/makes/${make}/models/${model}/deaths`)).json();
+	document.getElementById(`death-${num}`).innerText = deaths.deaths;
+}
+
+async function alternatives_handler() {
+	for (var num = 2; num < 4; num++) {
+		const alt = await (await fetch('/types/apple')).json();
+		console.log(alt);
+		update_selection(num, alt.make, alt.model);
+		update_fuel(num, alt.option);
+		await update_pricing(num, alt.make, alt.model);
+		update_death(num, alt.make, alt.model);
+		update_insurance(num, alt.make, alt.model);
+	}
+}
+
+window.onload = main;
+
